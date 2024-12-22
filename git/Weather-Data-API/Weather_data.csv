@@ -1,0 +1,2 @@
+Weather_data:
+{'City and Country': "('Cape Town', 'South Africa')\n", 'Temperature': 21, 'Wind_Speed': 13, 'Wind_Dir': 'NNE', 'Precip': 1, 'Cloudcover': 74, 'Visibility': 9}
